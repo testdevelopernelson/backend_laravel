@@ -1,6 +1,6 @@
 # Prueba productos segaci
 
-Desarrollo Backend en Laravel 10 y MySql, exponiendo una API para el CRUD de productos
+Desarrollo Backend en Laravel 11.25.0 y MySql => Proyecto API tienda
 
 ## Instalar el proyecto de laravel
 
